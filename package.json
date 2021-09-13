@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "koa": "^1.2.5",
+    "koa-router": "^5.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "1-no-container",
+  "description": "This is an example of a basic monolithic node.js service that has been designed to run directly on a server, without a container.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
